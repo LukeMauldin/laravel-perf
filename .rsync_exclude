@@ -1,0 +1,13 @@
+- /.git
+- /.gitignore
+- /node_modules
+- /app/storage/summaries/*
+- /app/storage/logs/*
+- /app/storage/views/*
+- /app/storage/sessions/*
+- /app/storage/htmlpurifier/*
+- /app/storage/debugbar/*
+- /app/storage/cache/*
+- /.idea
+- /docs
+- .git
